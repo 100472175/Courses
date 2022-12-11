@@ -48,7 +48,9 @@ print("##################################################################\n" +
 if args.user is not None:
     user=args.user
 else:
-    user = input("Enter NIA: ")
+    user = "100472175"
+    print("Login in as 100472175")
+    #user = input("Enter NIA: ")
 passwd = getpass.getpass(prompt="Enter password: ")
 
 # Submit login form
