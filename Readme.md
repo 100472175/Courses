@@ -1,3 +1,9 @@
+# Python file: aulaglobal.py
+Replace the NIA with your number, or replace it by an input.
+Python small program to download all the files available in the AulaGlobal repository, from the university Carlos III of Madrid
+This code is not mine, below this paragraph is the original readme.
+
+
 # Python client to UC3M Aula Global
 This small python script allows you to download all the content from your [UC3M Aula Global](http://aulaglobal.uc3m.es) courses (.pdf, .docx, .pptx, etc.). It works as a crawler, checking the site for files as if it was you with your browser.
 
